@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://abloylei.github.io/sitemap.html.gz
+Sitemap: https://abloylei.github.io/app/sitemap.html.gz
+Sitemap: https://abloylei.github.io/assets/sitemap.html.gz
+Sitemap: https://abloylei.github.io/css/sitemap.html.gz
+Sitemap: https://abloylei.github.io/includes/sitemap.html.gz
+Sitemap: https://abloylei.github.io/item/sitemap.html.gz
+Sitemap: https://abloylei.github.io/src/sitemap.html.gz
